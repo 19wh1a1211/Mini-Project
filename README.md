@@ -20,3 +20,5 @@ If there is no match it labels unknown.
 After labeling, the attandance that is the identified person's name, Id and time is visible in the CSV file.
 
 
+## Results
+![](https://github.com/19wh1a1211/Mini-Project/blob/main/Results.jpg?raw=true)
